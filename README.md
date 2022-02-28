@@ -48,3 +48,8 @@ Six different tests were placed in the `tests.py` file. They check the whole pro
 changed so that they don't require modifications when the different database is used; test values are updated accordingly.
 It was assumed that the input would be tested without whitespace characters, as the number of those characters
 can change according to the database. There is just no point in hardcoding them. 
+
+## Improvement ideas 🤔
+
+If more time were allowed for the project, I would create a simple console that would enable the user to add new
+items to the database. I would also probably store the database in a better way than currently.
